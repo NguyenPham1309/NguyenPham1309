@@ -28,7 +28,7 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 - **Tools**: Excel (Power Query, Power Platform, Advanced functions such as VLOOKUP), SQL (JOINS, CTEs, Window), Python (Pandas, Numpy), Power BI (DAX), Power Platform  
 - **Analytics**: Fishbone diagram, Descriptive analytics (including distribution), Diagnostic analytics, Static Segmentation, Dashboarding  
 - **Platforms & Project Management**: Excel, Git, Google Spreadsheets, Miro, Notion, Jira, Confluence, Draw.io, Git & Github
-- **Languages**: Vietnamese (Native), English (Advanced - C1), French (Intermediate - B1, actively improving to be fluent)
+- **Languages**: Vietnamese (Native), English (Advanced - C1), French (Working proficiency)
 
 ---
 
