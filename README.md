@@ -13,6 +13,9 @@ With experience in the E-commerce and Life insurance industries, including Busin
 
 ## 🚀 Featured Projects
 
+### 🏚️ [E-commerce analysis project | DBeaver & Google BigQuery (phase 1)](https://github.com/NguyenPham1309/e-commerce-analysis)
+This project presents how to handle data warehouse structures using SQL (BigQuery), how to explore the data through an EDA process with Python (Google Colab), and how to do the data visualization (Looker Studio). The project has currently finished stage 1, with the outcome of a SQL View being ready for further EDA and analysis
+
 ### 📈 [Churn analysis project | Power Query, Power BI](https://github.com/NguyenPham1309/Power-BI_Churn-analysis-project)
 
 This project presents an interactive Power BI dashboard designed to analyze customer churn. The primary objective is to improve customer retention by identifying the profiles of different segments based on multiple features. From a dynamic group of features selected, the business users can understand the exact customer target, where they can put their best efforts to proactively encourage customer loyalty.
